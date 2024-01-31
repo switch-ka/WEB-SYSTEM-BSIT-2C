@@ -1,1 +1,1 @@
-"Example text" 
+"Master changes in github" 
